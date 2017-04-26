@@ -1,0 +1,9 @@
+G:\Git\Repositories\Visual Studio\TestProj1\TestProj1\bin\Debug\TestProj1.exe.config
+G:\Git\Repositories\Visual Studio\TestProj1\TestProj1\bin\Debug\TestProj1.exe
+G:\Git\Repositories\Visual Studio\TestProj1\TestProj1\bin\Debug\TestProj1.pdb
+G:\Git\Repositories\Visual Studio\TestProj1\TestProj1\obj\Debug\TestProj1.csprojResolveAssemblyReference.cache
+G:\Git\Repositories\Visual Studio\TestProj1\TestProj1\obj\Debug\TestProj1.Form1.resources
+G:\Git\Repositories\Visual Studio\TestProj1\TestProj1\obj\Debug\TestProj1.Properties.Resources.resources
+G:\Git\Repositories\Visual Studio\TestProj1\TestProj1\obj\Debug\TestProj1.csproj.GenerateResource.Cache
+G:\Git\Repositories\Visual Studio\TestProj1\TestProj1\obj\Debug\TestProj1.exe
+G:\Git\Repositories\Visual Studio\TestProj1\TestProj1\obj\Debug\TestProj1.pdb
